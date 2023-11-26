@@ -1,7 +1,7 @@
 [
     {
       "title": "Treasure Hunt v2",
-      "imageSrc": "projects/TreasureV2.png",
+      "imageSrc": "projects/TreasureV2.PNG",
       "description": "This is my second attempt at the Treasure Hunt Game using React.",
       "skills": ["React", "JavaScript", "CSS"],
       "demo": "https://captain-paces-treasure.onrender.com/",
@@ -9,7 +9,7 @@
     },
     {
       "title": "Treasure Hunt v1",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/TreasureV1.PNG",
       "description": "This is my first attempt at the Treasure Hunt Game not knowing React.",
       "skills": ["HTML", "JavaScript", "CSS"],
       "demo": "https://jdpinkard.github.io/",

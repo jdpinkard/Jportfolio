@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">Portfolio</a>
+      <a className={styles.title} href="/">JDPinkard</a>
       <div className={styles.menu}>
         <img className={styles.menuBtn} 
           src={menuOpen ? getImageURL("nav/closeIcon.png") : getImageURL("nav/menuIcon.png")} 

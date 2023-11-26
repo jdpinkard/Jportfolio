@@ -25,8 +25,9 @@ const Experience = () => {
               return <li key={id} className={styles.historyItem}>
                 <img src={getImageURL(historyItem.imageSrc)} alt={`${historyItem.organization} Logo`} />
                 <div className={styles.historyItemDetails}>
-                  <h3>{`${historyItem.role}, ${historyItem.organization}`}</h3>
-                  <p>{`${historyItem.startDate}, ${historyItem.endDate}`}</p>
+                  <h3>{`${historyItem.role}`}</h3>
+                  <h3>{`@ ${historyItem.organization}`}</h3>
+                  <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                   <ul>
                     {historyItem.experiences.map((experience, id) => {
                       return <li key={id}>{experience}</li>

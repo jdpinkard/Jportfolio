@@ -1,29 +1,32 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Full Stack Developer",
+      "organization": "Learn Academy",
+      "startDate": "Oct 2023",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+        "Multiple Projects (Front and Back End)", 
+        "Became a Pair Programming Pro"],
+      "imageSrc": "history/learn.png"
+    },
+    {
+      "role": "Customer Care Advocate",
+      "organization": "Target",
+      "startDate": "Oct 2019",
+      "endDate": "Mar 2022",
+      "experiences": [
+        "Handled Complaints with a Smile", 
+        "Followed Up Complaints Preventing Future Incidents"],
+      "imageSrc": "history/target.png"
+    },
+    {
+      "role": "Apache Helicopter Mechanic",
+      "organization": "US Army",
+      "startDate": "Mar 2008",
+      "endDate": "Aug 2011",
+      "experiences": [
+        "Created a Parts Finder Program using Excel", 
+        "Completed Basic Leadership Course"],
+      "imageSrc": "history/army.png"
     }
   ]
