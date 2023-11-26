@@ -1,26 +1,18 @@
 [
     {
-      "title": "Treasure Hunt",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "Treasure Hunt v2",
+      "imageSrc": "projects/TreasureV2.png",
+      "description": "This is my second attempt at the Treasure Hunt Game using React.",
       "skills": ["React", "JavaScript", "CSS"],
       "demo": "https://captain-paces-treasure.onrender.com/",
       "source": "https://github.com/learn-academy-2023-hotel/treasurehunt-jdpinkard"
     },
     {
-      "title": "Project B",
+      "title": "Treasure Hunt v1",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "JavaScript", "CSS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is my first attempt at the Treasure Hunt Game not knowing React.",
+      "skills": ["HTML", "JavaScript", "CSS"],
+      "demo": "https://jdpinkard.github.io/",
+      "source": "https://github.com/jdpinkard/jdpinkard.github.io"
     }
   ]
