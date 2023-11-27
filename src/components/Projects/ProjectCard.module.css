@@ -60,3 +60,7 @@
     background: var(--color-primary);
     padding: 1px 22px;
 }
+
+.link:hover {
+    background-color: #232e5c;
+}
