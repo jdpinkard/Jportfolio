@@ -4,6 +4,16 @@
     color: var(--color-text);
     margin-top: 120px;
     background-color: var(--color-secondary);
+    text-align: center;
+    padding-bottom:  20px;
+}
+
+.container a {
+    color: var(--color-text);
+    font-size: 18px;
+}
+
+.subContainer {
     display: flex;
     justify-content: space-evenly;
     width: 100vw;
@@ -49,7 +59,7 @@
 }
 
 @media screen and (max-width: 830px) {
-    .container {
+    .subContainer {
         flex-direction: column;
         gap: 23px;
     }
