@@ -2,7 +2,7 @@ import React from 'react'
 import { getImageURL } from '../../utils'
 import styles from "./Experience.module.css"
 import skills from "../../data/skills.json";
-import history from "../../data/history.json";
+import experience from "../../data/experience.json";
 
 const Experience = () => {
   return (
@@ -19,18 +19,18 @@ const Experience = () => {
               </div>
           })
           }</div>
-        <ul className={styles.history}>
+        <ul className={styles.experience}>
           {
-            history.map((historyItem, id) => {
-              return <li key={id} className={styles.historyItem}>
-                <img src={getImageURL(historyItem.imageSrc)} alt={`${historyItem.organization} Logo`} />
-                <div className={styles.historyItemDetails}>
-                  <h3>{`${historyItem.role}`}</h3>
-                  <h3>{`@ ${historyItem.organization}`}</h3>
-                  <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
+            experience.map((experienceItem, id) => {
+              return <li key={id} className={styles.experienceItem}>
+                <img src={getImageURL(experienceItem.imageSrc)} alt={`${experienceItem.organization} Logo`} />
+                <div className={styles.experienceItemDetails}>
+                  <h3>{`${experienceItem.role}`}</h3>
+                  <h3>{`@ ${experienceItem.organization}`}</h3>
+                  <p>{`${experienceItem.startDate} - ${experienceItem.endDate}`}</p>
                   <ul>
-                    {historyItem.experiences.map((experience, id) => {
-                      return <li key={id}>{experience}</li>
+                    {experienceItem.experiences.map((xp, id) => {
+                      return <li key={id}>{xp}</li>
                     })}
                   </ul>
                 </div>
