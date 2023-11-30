@@ -10,8 +10,8 @@ const Hero = () => {
             <h1 className={styles.title}>Hi, I'm Justin</h1>
             <p className={styles.description}>I'm a full-stack developer with 2 months of experience using React, HTML, and CSS. Reach out if you'd like to learn more!</p>
             <div className={styles.buttons}>
-            <a href="mailto:justin.d.pinkard@gmail.com" className={styles.textBtn}>Contact Me</a>
-            <a href={resume} target="_blank" className={styles.textBtn}>Resume</a>
+              <a href="mailto:justin.d.pinkard@gmail.com" className={styles.textBtn}>Contact Me</a>
+              <a href={resume} target="_blank" className={styles.textBtn}>Resume</a>
             </div>
         </div>
         <img src={getImageURL("hero/heroImage.png")} alt="hero image of Justin" className={styles.heroImg} />
