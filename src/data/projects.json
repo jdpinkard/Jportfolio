@@ -4,7 +4,7 @@
       "imageSrc": "projects/jdportfolio.PNG",
       "description": "Created a portfolio based off a Figma Design by Code Complete.",
       "skills": ["React", "Vite", "JavaScript", "CSS"],
-      "demo": "jdpinkard.netlify.app",
+      "demo": "https://jdpinkard.netlify.app",
       "source": "https://github.com/jdpinkard/Jportfolio"
     },
     {
