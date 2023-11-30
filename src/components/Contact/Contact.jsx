@@ -25,7 +25,7 @@ const Contact = () => {
                 </li>
             </ul>
         </div>
-        <a href='https://www.figma.com/file/tkDs3aeBaqvF47hD063LSH/Untitled?type=design&node-id=0-1&mode=design&t=5ioyZdcqkmRG6uy7-0'>Based on a Figma Design</a>
+        <a href='https://www.figma.com/file/tkDs3aeBaqvF47hD063LSH/Untitled?type=design&node-id=0-1&mode=design&t=5ioyZdcqkmRG6uy7-0'>Original Figma Design by CodeComplete</a>
     </footer>
   )
 }

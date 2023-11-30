@@ -1,9 +1,17 @@
 [
     {
+      "title": "Code Complete Portfolio",
+      "imageSrc": "projects/jdportfolio.PNG",
+      "description": "Created a portfolio based off a Figma Design by Code Complete.",
+      "skills": ["React", "Vite", "JavaScript", "CSS"],
+      "demo": "jdpinkard.netlify.app",
+      "source": "https://github.com/jdpinkard/Jportfolio"
+    },
+    {
       "title": "Treasure Hunt v2",
       "imageSrc": "projects/TreasureV2.PNG",
       "description": "This is my second attempt at the Treasure Hunt Game using React.",
-      "skills": ["React", "JavaScript", "CSS"],
+      "skills": ["React", "JavaScript", "CSS", "HTML"],
       "demo": "https://captain-paces-treasure.onrender.com/",
       "source": "https://github.com/learn-academy-2023-hotel/treasurehunt-jdpinkard"
     },
@@ -11,7 +19,7 @@
       "title": "Treasure Hunt v1",
       "imageSrc": "projects/TreasureV1.PNG",
       "description": "This is my first attempt at the Treasure Hunt Game not knowing React.",
-      "skills": ["HTML", "JavaScript", "CSS"],
+      "skills": ["JavaScript", "CSS", "HTML"],
       "demo": "https://jdpinkard.github.io/",
       "source": "https://github.com/jdpinkard/jdpinkard.github.io"
     }
