@@ -41,7 +41,12 @@
     margin-bottom: 52px;
 }
 
-.contactBtn {
+.buttons {
+    display: flex;
+    gap: 15px;
+}
+
+.textBtn {
     text-decoration: none;
     background-color: var(--color-primary);
     color: var(--color-text);
@@ -52,7 +57,7 @@
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
-.contactBtn:hover {
+.textBtn:hover {
     background-color: #232e5c;
 }
 
