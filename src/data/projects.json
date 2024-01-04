@@ -1,5 +1,13 @@
 [
     {
+      "title": "MM: Time to Wash the Dishes!",
+      "imageSrc": "projects/Dishes.PNG",
+      "description": "A Tic Tac Toe game for the Mewing Maid Cafe.",
+      "skills": ["React", "JavaScript", "CSS", "HTML"],
+      "demo": "https://mewing-maid-time-to-do-the-dishes.onrender.com/",
+      "source": "https://github.com/learn-academy-2023-hotel/tic-tac-toe-tic-tac-toe-jdpinkard"
+    },
+    {
       "title": "CodeComplete Portfolio",
       "imageSrc": "projects/jdportfolio.PNG",
       "description": "Created a portfolio based off a Figma Design by CodeComplete.",
